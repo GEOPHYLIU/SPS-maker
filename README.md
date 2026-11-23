@@ -1,5 +1,5 @@
 # SPS-maker
-Making X files （SPS2.0）
+Making X files （SPS2.1）
 # SPSSolution 使用说明
 ## **1\.用途**
 根据 S 文件、R 文件、关系划分表和参数表，生成 **SPS 2\.1 定宽格式** X 关系文件。支持SPS2\.1格式和CSV输入输出。
